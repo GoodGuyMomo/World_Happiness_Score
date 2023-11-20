@@ -5,7 +5,7 @@ An Analysis of World Happiness
 Link to the Dataset:
 https://data.world/laurel/world-happiness-report-data/workspace/file?filename=online-data-chapter-2-whr-2017.xlsx
 
-The overarching Question:
+The Overarching Question:
 How do the variations in socioeconomic status influence the perception of trust and happiness throughout different countries?
 
 Questions that will help us answer the overarching question:
