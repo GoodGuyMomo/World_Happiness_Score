@@ -1,5 +1,4 @@
-# CS-280-Final-Project
-An Analysis of World Happiness
+# An Analysis of World Happiness
 
 
 Link to the Dataset:
@@ -14,7 +13,3 @@ Questions that will help us answer the overarching question:
 3. When comparing the two countries with the highest and lowest GDP per capita, does freedom to make life choices influence the confidence placed in each country's national government?
 4. Is there a need for a higher GDP per capita in order to expect a higher health life expectancy at birth?
 5. On a global scale, are people becoming more happy or sad over the years?
-
-
-Link to the GitHub Repository:
-https://github.com/GoodGuyMomo/CS-280-Final-Project.git
